@@ -79,7 +79,7 @@ Similar arributes as unity native Input axis.
   </tr>
   <tr>
     <td>public Vector2 <h4>Coordinate</h4></td>
-    <td><p><h5>Returns</h5> Vector2 with </p>
+    <td><p><h4>Returns</h4> Vector2 with </p>
     <p>x axis: Horizontal</p>
     <p>y axis: Vertical</p>
     </td>
