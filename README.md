@@ -10,8 +10,6 @@ Similar arributes as unity native Input axis.
 
 ## Demo
 
-
-
 <table style="width:100%">
   <tr>
     <th><img src="Images/Forward.gif" width=400></th>
@@ -20,5 +18,27 @@ Similar arributes as unity native Input axis.
   <tr>
     <td>Moving Character Forward</td>
     <td>Moving Character Backward</td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th><img src="Images/Left.gif" width=400></th>
+    <th><img src="Images/Right.gif" width=400></th>   
+  </tr>
+  <tr>
+    <td>Moving Character Left</td>
+    <td>Moving Character Right</td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <th><img src="Images/Rotation.gif" width=400></th>
+    <th><img src="Images/Rotation_r.gif" width=400></th>   
+  </tr>
+  <tr>
+    <td>Rotating Character Left</td>
+    <td>Rotating Character Right</td>
   </tr>
 </table>
