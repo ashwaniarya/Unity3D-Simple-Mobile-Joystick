@@ -1,5 +1,8 @@
-﻿using UnityEngine;
+//
+
+using UnityEngine;
 using UnityEngine.EventSystems;
+[RequireComponent(typeof(UnityEngine.UI.AspectRatioFitter))]
 public class MobileInputController : MonoBehaviour,IBeginDragHandler,IDragHandler,IEndDragHandler,IPointerDownHandler,IPointerUpHandler {
 
     public RectTransform Background;
@@ -53,6 +56,6 @@ public class MobileInputController : MonoBehaviour,IBeginDragHandler,IDragHandle
 
     public void Coordinate()
     {
-
+	return new Vector2(Horizontal,Vertical);
     }
 }
