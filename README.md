@@ -42,3 +42,22 @@ Similar arributes as unity native Input axis.
     <td>Rotating Character Right</td>
   </tr>
 </table>
+
+# Usages
+
+## Parameter
+  <table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>   
+  </tr>
+  <tr>
+    <td>Horizontal</td>
+    <td>Stores values of horizontal movement of the stick.
+    left: -1
+    center: 0
+    right: +1
+    </td>
+  </tr>
+</table>
+## Methods
