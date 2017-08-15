@@ -1,4 +1,4 @@
-# Unity-Simple-Mobile-Joystick
+# Unity3D-Simple-Mobile-Joystick
 Mobile Joystick suitable for any types of game
 ## Overview
 
