@@ -53,7 +53,7 @@ Similar arributes as unity native Input axis.
   </tr>
   <tr>
     <td><h4>Horizontal</h4></td>
-    <td>Stores values of horizontal movement of the stick.
+    <td><p>Stores values of horizontal movement of the stick.</p>
     <p>left: -1</p>
     <p>center: 0</p>
     <p>right: +1</p>
@@ -62,7 +62,7 @@ Similar arributes as unity native Input axis.
   
   <tr>
     <td><h4>Vertical</h4></td>
-    <td>Stores values of horizontal movement of the stick.
+    <td><p>Stores values of horizontal movement of the stick.</p>
     <p>Up: -1</p>
     <p>center: 0</p>
     <p>down: +1</p>
