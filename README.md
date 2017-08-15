@@ -9,4 +9,4 @@ Joystick controller for touchscreen device in unity 3d.
 Similar arributes as unity native Input axis.
 
 ## Demo
-<img src="Images/Forward.gif" width=300>
+<img src="Images/Forward.gif" width=400>
