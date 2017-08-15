@@ -6,3 +6,4 @@ Joystick controller for touchscreen device in unity 3d.
 
 ![](Images/AddControllerDesc_LI.jpg)
 
+Similar arributes as unity native Input axis.
