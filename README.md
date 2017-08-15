@@ -60,4 +60,4 @@ Similar arributes as unity native Input axis.
     </td>
   </tr>
 </table>
-## Methods
+# # Methods
