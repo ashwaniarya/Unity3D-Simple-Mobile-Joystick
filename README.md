@@ -62,7 +62,7 @@ Similar arributes as unity native Input axis.
   
   <tr>
     <td><h4>Vertical</h4></td>
-    <td><p>Stores values of horizontal movement of the stick.</p>
+    <td><p>Stores values of vertical movement of the stick.</p>
     <p>Up: -1</p>
     <p>center: 0</p>
     <p>down: +1</p>
@@ -71,3 +71,19 @@ Similar arributes as unity native Input axis.
 </table>
 
 ## Methods
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>   
+  </tr>
+  <tr>
+    <td>public Vector2 <h4>Coordinate</h4></td>
+    <td><p><h5>Returns</h5> Vector2 with </p>
+    <p>x axis: Horizontal</p>
+    <p>y axis: Vertical</p>
+    </td>
+  </tr>
+</table>
+
+
