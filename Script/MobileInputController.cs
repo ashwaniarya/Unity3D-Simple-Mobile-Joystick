@@ -54,7 +54,7 @@ public class MobileInputController : MonoBehaviour,IBeginDragHandler,IDragHandle
         Vertical = PointPosition.y;
     }
 
-    public void Coordinate()
+    public Vector2 Coordinate()
     {
 	return new Vector2(Horizontal,Vertical);
     }
