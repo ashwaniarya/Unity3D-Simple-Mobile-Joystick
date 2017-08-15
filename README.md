@@ -52,11 +52,20 @@ Similar arributes as unity native Input axis.
     <th>Description</th>   
   </tr>
   <tr>
-    <td>Horizontal</td>
+    <td><h4>Horizontal</h4></td>
     <td>Stores values of horizontal movement of the stick.
     left: -1
     center: 0
     right: +1
+    </td>
+  </tr>
+  
+  <tr>
+    <td><h4>Vertical</h4></td>
+    <td>Stores values of horizontal movement of the stick.
+    Up: -1
+    center: 0
+    down: +1
     </td>
   </tr>
 </table>
