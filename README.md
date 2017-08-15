@@ -4,5 +4,5 @@ Mobile Joystick suitable for any types of game
 
 Joystick controller for touchscreen device in unity 3d.
 
-![](Images/AddControllerDesc_LI.png)
+![](Images/AddControllerDesc_LI.jpg)
 
